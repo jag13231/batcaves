@@ -34,5 +34,5 @@ function Jagan() {
     </div>
   );
 }
-
+console.log("Jagan component loaded");
 export default Jagan;
